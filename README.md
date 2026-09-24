@@ -2,7 +2,7 @@
    
 ## Hi there 👋
 
-I'm not technical technologist (what?)-- just vibing my way through to some valuable tools, products, apps, or none of the above! Feel free to reach out. 
+I'm a non-technical technologist (what?)-- just vibing my way through to some valuable tools, products, apps, or none of the above! Feel free to reach out. 
 
 
 <!--
